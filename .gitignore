@@ -1,0 +1,10 @@
+.idea/
+.gitignore
+.mvn/
+mvnw
+mvnw.cmd
+pom.xml
+src/
+accounts-microservice-server/
+discovery-microservice-server/
+webclient-microservice-server/
